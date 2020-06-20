@@ -1,7 +1,3 @@
----
-title: "Default theme"
----
-
 # Default Page 
 
 Test the default theme of GitHub Page.
